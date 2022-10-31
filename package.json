@@ -1,0 +1,28 @@
+{
+  "name": "workday",
+  "version": "1.0.0",
+  "description": "WorkFlow day by day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prantok104/workday.git"
+  },
+  "keywords": [
+    "workflow"
+  ],
+  "author": "prantok104",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prantok104/workday/issues"
+  },
+  "homepage": "https://github.com/prantok104/workday#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^3.0.6",
+    "simple-git": "^3.14.1"
+  }
+}
